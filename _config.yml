@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tao LI"
-description              : " Ph.D. student at SJTU. "
+description              : " Ph.D. student "
 repository               : "nblt/nblt.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : github nblt # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
