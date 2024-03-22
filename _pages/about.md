@@ -54,6 +54,16 @@ I am interested in
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/TWA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Trainable weight averaging: Efficient training by optimizing historical solutions](https://openreview.net/pdf?id=8wbnpOJY-f) \\
+**Tao Li**, Zhehao Huang, Qinghua Tao, Yingwen Wu, Xiaolin Huang
+
+[**Code**](https://github.com/nblt/TWA) 
+ - This work introduces trainable weight averaging 
+</div>
+</div>
 
 <!-- **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun -->
 
