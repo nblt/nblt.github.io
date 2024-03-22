@@ -24,7 +24,8 @@ My research primarily revolves around machine learning and optimization. Specifi
 
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉🎉 A paper about improving random weight perturbation is accepted to TMLR. 
+- *2024.03*: &nbsp;🎉🎉 Our paper "[Revisiting Random Weight Perturbation for Efficiently Improving Generalization](https://openreview.net/pdf?id=WbbgOHpoPX)" is accepted to TMLR. A short version is on NeurIPS Workshops on Optimization for Machine Learning (2023)
+- *2024.02*: &nbsp;🎉🎉 Our paper "[Friendly Sharpness-Aware Minimization](https://arxiv.org/abs/2403.12350)" is accepted to CVPR 2024. 
 
 # 📝 Publications 
 
