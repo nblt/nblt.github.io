@@ -63,7 +63,7 @@ My research primarily revolves around machine learning and optimization. Specifi
 
 # 🎖 Honors and Awards
 - *2020.07* Shanghai Outstanding Graduates
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2013.12* First Prize in CSP-S (full grades) 
 
 # 📖 Educations
 - *2020.09 -  now*, Ph.D., Control Science and Engineering, Shanghai Jiao Tong University, Shanghai, China 
