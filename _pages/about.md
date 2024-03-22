@@ -54,14 +54,25 @@ I am interested in
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/TWA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/TWA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Trainable weight averaging: Efficient training by optimizing historical solutions](https://openreview.net/pdf?id=8wbnpOJY-f) \\
+[Trainable Weight Averaging: Efficient Training by Optimizing Historical Solutions](https://openreview.net/pdf?id=8wbnpOJY-f) \\
 **Tao Li**, Zhehao Huang, Qinghua Tao, Yingwen Wu, Xiaolin Huang
 
 [**Code**](https://github.com/nblt/TWA) 
- - This work introduces trainable weight averaging 
+ - This work introduces trainable weight averaging to average the historical solutions during the DNN training process to achieve efficient training and better performance.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022 *oral* </div><img src='images/TWA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Subspace Adversarial Training](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Subspace_Adversarial_Training_CVPR_2022_paper.pdf) \\
+**Tao Li**, Yingwen Wu, Sizhe Chen, Kun Fang, Xiaolin Huang
+
+[**Code**](https://github.com/nblt/TWA) 
+ - This work introduces trainable weight averaging to average the historical solutions during the DNN training process to achieve efficient training and better performance.
 </div>
 </div>
 
