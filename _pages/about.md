@@ -35,7 +35,7 @@ My research primarily revolves around machine learning and optimization. Specifi
 **Tao Li**, Qinghua Tao, Weihao Yan, Yingwen Wu, Zehao Lei, Kun Fang, Mingzhen He, Xiaolin Huang
 
 [**Code**](https://github.com/nblt/mARWP) 
- - This work enhances the generalization performance of random weight perturbation and shows that it can achieve more efficient generalization improvement than SAM.
+ - This work enhances the generalization performance of random weight perturbation from the perspective of convergence and perturbation generation, and shows that it can achieve more efficient generalization improvement than SAM with comparable or even better performance.
 </div>
 </div>
 
@@ -47,7 +47,7 @@ My research primarily revolves around machine learning and optimization. Specifi
 **Tao Li**, Pan Zhou, Zhengbao He, Xinwen Cheng, Xiaolin Huang
 
 [**Code**](https://github.com/nblt/F-SAM) 
- - This work reveals that the full gradient component in SAM's adversarial perturbation does not contribute to generalization and proposes an efficient variant to enhance the performance.
+ - This work uncovers that the full gradient component in SAM's adversarial perturbation does not contribute to generalization and, in fact, has undesirable effects. We propose an efficient variant to mitigate these effects and enhance the generalization performance.
 </div>
 </div>
 
@@ -66,12 +66,12 @@ My research primarily revolves around machine learning and optimization. Specifi
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 -  now*, Ph.D., Control Science and Engineering, Shanghai Jiao Tong University 
+- *2016.09 - 2020.06*, Undergraduate, Automation, Shanghai Jiao Tong University
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.09 - 2022.02*, Tecent, China.
