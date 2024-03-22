@@ -37,7 +37,7 @@ My research primarily revolves around machine learning and optimization. Specifi
 [**Code**](https://github.com/nblt/mARWP) 
  - This work improves 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/fsam.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/fsam.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Friendly Sharpness-Aware Minimization](https://arxiv.org/pdf/2403.12350.pdf) \\
