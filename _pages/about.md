@@ -17,24 +17,25 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth-year Ph.D. student in the Department of Automation at SEIEE, SJTU, advised by [Prof. Xiaolin Huang](http://www.pami.sjtu.edu.cn/xiaolin). I also spend several wonderful months in the Department of Computer Science and Engineering, HKUST, as a visiting student, under the guidance of [Prof. James Kwok](https://www.cse.ust.hk/~jamesk/).
-My research primarily revolves around machine learning and optimization. Specifically, I am deeply interested in efficient training, robustness, and generalization aspects associated with learning algorithms and large-scale models.
-
+I am a fourth-year Ph.D. candidate  in the Department of Automation at SEIEE, SJTU, advised by [Prof. Xiaolin Huang](http://www.pami.sjtu.edu.cn/xiaolin). I also spend several wonderful months in the Department of Computer Science and Engineering, HKUST, as a visiting student, under the guidance of [Prof. James Kwok](https://www.cse.ust.hk/~jamesk/).
+My research primarily revolves around machine learning and optimization. Specifically, I am deeply interested in efficiency, robustness, and generalization aspects associated with learning algorithms and large-scale models. 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉🎉 Our paper "[Revisiting Random Weight Perturbation for Efficiently Improving Generalization](https://openreview.net/pdf?id=WbbgOHpoPX)" is accepted to TMLR. A short version is on NeurIPS Workshops on Optimization for Machine Learning (2023)
+- *2024.03*: &nbsp;🎉🎉 Our paper "[Revisiting Random Weight Perturbation for Efficiently Improving Generalization](https://openreview.net/pdf?id=WbbgOHpoPX)" is accepted to TMLR. A short version is on NeurIPS Workshops on Optimization for Machine Learning (2023).
 - *2024.02*: &nbsp;🎉🎉 Our paper "[Friendly Sharpness-Aware Minimization](https://arxiv.org/abs/2403.12350)" is accepted to CVPR 2024. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/fsam.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Friendly Sharpness-Aware Minimization](https://arxiv.org/pdf/2403.12350.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Tao Li**, Pan Zhou, Zhengbao He, Xinwen Cheng, Xiaolin Huang
+
+<!-- **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun -->
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
