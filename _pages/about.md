@@ -72,7 +72,18 @@ I am interested in
 **Tao Li**, Yingwen Wu, Sizhe Chen, Kun Fang, Xiaolin Huang
 
 [**Code**](https://github.com/nblt/TWA) 
- - This work introduces trainable weight averaging to average the historical solutions during the DNN training process to achieve efficient training and better performance.
+ - This work proposes subspace training as a method to address the overfitting issues in single and multi-step adversarial training, known as catastrophic and robust overfittings. By incorporating subspace training, we achieve efficient single-step adversarial training that is comparable to the performance of multi-step methods.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 22 </div><img src='images/DLDR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Low Dimensional Trajectory Hypothesis is True: DNNs can be Trained in Tiny Subspaces](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9782552) \\
+**Tao Li**,  Lei Tan, Zhehao Huang, Qinghua Tao, Yipeng Liu, Xiaolin Huang
+
+[**Code**](https://github.com/nblt/TWA) 
+ - This work explores the low-dimensional characteristics of DNN training trajectories and proposes a dimension reduction method for training DNNs within a lower-dimensional subspace. This approach has the potential to reduce training costs and enhance model robustness.
 </div>
 </div>
 
