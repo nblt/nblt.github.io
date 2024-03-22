@@ -19,6 +19,9 @@ redirect_from:
 
 I am a fourth-year Ph.D. candidate  in the Department of Automation at SEIEE, SJTU, advised by [Prof. Xiaolin Huang](http://www.pami.sjtu.edu.cn/xiaolin). I also spend several wonderful months in the Department of Computer Science and Engineering, HKUST, as a visiting student, under the guidance of [Prof. James Kwok](https://www.cse.ust.hk/~jamesk/).
 My research primarily revolves around machine learning and optimization. Specifically, I am deeply interested in efficiency, robustness, and generalization aspects of learning algorithms and large models.
+
+I am interested in 
+
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
@@ -68,7 +71,6 @@ My research primarily revolves around machine learning and optimization. Specifi
 # 📖 Educations
 - *2020.09 -  now*, Ph.D., Control Science and Engineering, Shanghai Jiao Tong University, Shanghai, China 
 - *2016.09 - 2020.06*, B.Eng., Automation, Shanghai Jiao Tong University, Shanghai, China
-- *2013.09 - 2016.06*, High School, Jiaochuan Academy, Zhejiang, China
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
