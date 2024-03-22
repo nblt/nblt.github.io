@@ -31,23 +31,20 @@ My research primarily revolves around machine learning and optimization. Specifi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR 2024</div><img src='images/RWP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Revisiting Random Weight Perturbation for Efficiently Improving Generalization](https://openreview.net/pdf?id=WbbgOHpoPX)
-
+[Revisiting Random Weight Perturbation for Efficiently Improving Generalization](https://openreview.net/pdf?id=WbbgOHpoPX) \\
 **Tao Li**, Qinghua Tao, Weihao Yan, Yingwen Wu, Zehao Lei, Kun Fang, Mingzhen He, Xiaolin Huang
 
 [**Code**](https://github.com/nblt/mARWP) 
+ - This work improves 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/fsam.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-
-
-[Friendly Sharpness-Aware Minimization](https://arxiv.org/pdf/2403.12350.pdf)
-
+[Friendly Sharpness-Aware Minimization](https://arxiv.org/pdf/2403.12350.pdf) \\
 **Tao Li**, Pan Zhou, Zhengbao He, Xinwen Cheng, Xiaolin Huang
 
-
 [**Code**](https://github.com/nblt/F-SAM) 
+ - This work
 
 <!-- **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun -->
 
