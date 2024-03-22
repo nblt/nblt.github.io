@@ -65,7 +65,7 @@ I am interested in
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022 *oral* </div><img src='images/SubAT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022 (oral) </div><img src='images/SubAT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Subspace Adversarial Training](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Subspace_Adversarial_Training_CVPR_2022_paper.pdf) \\
