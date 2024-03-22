@@ -68,7 +68,7 @@ My research primarily revolves around machine learning and optimization. Specifi
 # 📖 Educations
 - *2020.09 -  now*, Ph.D., Control Science and Engineering, Shanghai Jiao Tong University, Shanghai, China 
 - *2016.09 - 2020.06*, B.Eng., Automation, Shanghai Jiao Tong University, Shanghai, China
-- *2013.09 - 2016.06*, High School, Automation, Jiaochuan Academy, Zhejiang, China
+- *2013.09 - 2016.06*, High School, Jiaochuan Academy, Zhejiang, China
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
