@@ -35,7 +35,10 @@ My research primarily revolves around machine learning and optimization. Specifi
 **Tao Li**, Qinghua Tao, Weihao Yan, Yingwen Wu, Zehao Lei, Kun Fang, Mingzhen He, Xiaolin Huang
 
 [**Code**](https://github.com/nblt/mARWP) 
- - This work improves 
+ - This work enhances the generalization performance of random weight perturbation and shows that it can achieve more efficient generalization improvement than SAM.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/fsam.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -44,7 +47,10 @@ My research primarily revolves around machine learning and optimization. Specifi
 **Tao Li**, Pan Zhou, Zhengbao He, Xinwen Cheng, Xiaolin Huang
 
 [**Code**](https://github.com/nblt/F-SAM) 
- - This work
+ - This work reveals that the full gradient component in SAM's adversarial perturbation does not contribute to generalization and proposes an efficient variant to enhance the performance.
+</div>
+</div>
+
 
 <!-- **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun -->
 
