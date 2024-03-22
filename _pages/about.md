@@ -62,12 +62,12 @@ My research primarily revolves around machine learning and optimization. Specifi
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.07* Shanghai Outstanding Graduates
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
 - *2020.09 -  now*, Ph.D., Control Science and Engineering, Shanghai Jiao Tong University 
-- *2016.09 - 2020.06*, Undergraduate, Automation, Shanghai Jiao Tong University
+- *2016.09 - 2020.06*, Bachelor, Automation, Shanghai Jiao Tong University
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
