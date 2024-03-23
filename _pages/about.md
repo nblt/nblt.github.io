@@ -71,8 +71,8 @@ I have a keen interest in data structures and algorithms and have participated i
 [Subspace Adversarial Training](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Subspace_Adversarial_Training_CVPR_2022_paper.pdf) \\
 **Tao Li**, Yingwen Wu, Sizhe Chen, Kun Fang, Xiaolin Huang
 
-[**Code**](https://github.com/nblt/TWA) 
- - This work proposes subspace training as a method to address the overfitting issues in single and multi-step adversarial training, known as catastrophic and robust overfittings. By incorporating subspace training, we achieve efficient single-step adversarial training that is comparable to the performance of multi-step methods.
+[**Code**](https://github.com/nblt/Sub-AT) 
+ - This work proposes subspace training as a method to address the overfitting issues in single and multi-step adversarial training, known as catastrophic and robust overfittings. We achieve efficient and stable single-step adversarial training with comparable robustness performance of multi-step methods.
 </div>
 </div>
 
@@ -82,7 +82,7 @@ I have a keen interest in data structures and algorithms and have participated i
 [Low Dimensional Trajectory Hypothesis is True: DNNs can be Trained in Tiny Subspaces](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9782552) \\
 **Tao Li**,  Lei Tan, Zhehao Huang, Qinghua Tao, Yipeng Liu, Xiaolin Huang
 
-[**Code**](https://github.com/nblt/TWA) 
+[**Code**](https://github.com/nblt/DLDR) 
  - This work explores the low-dimensional characteristics of DNN training trajectories and proposes a dimension reduction method for training DNNs within a lower-dimensional subspace. This approach has the potential to reduce training costs and enhance model robustness.
 </div>
 </div>
