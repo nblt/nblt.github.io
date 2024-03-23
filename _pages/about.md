@@ -76,7 +76,7 @@ I have a keen interest in data structures and algorithms and have participated i
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 22 </div><img src='images/DLDR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2022 </div><img src='images/DLDR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Low Dimensional Trajectory Hypothesis is True: DNNs can be Trained in Tiny Subspaces](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9782552) \\
