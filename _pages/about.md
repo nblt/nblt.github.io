@@ -38,7 +38,7 @@ I have a keen interest in data structures and algorithms and have participated i
 **Tao Li**, Qinghua Tao, Weihao Yan, Yingwen Wu, Zehao Lei, Kun Fang, Mingzhen He, Xiaolin Huang
 
 [**Code**](https://github.com/nblt/mARWP) 
- - This work enhances the generalization performance of random weight perturbation from the perspective of convergence and perturbation generation, and shows that it can achieve more efficient generalization improvement than adversarial weight perturbation in SAM.
+ - This work enhances the generalization performance of random weight perturbation from the perspective of convergence and perturbation generation, and shows that it can achieve more efficient generalization improvement than adversarial weight perturbation in SAM, especially on large-scale problems.
 </div>
 </div>
 
