@@ -109,4 +109,4 @@ I have a keen interest in data structures and algorithms and have participated i
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2021.09 - 2021.12*, Tecent, China.
+- *2021.09 - 2021.12*, Tencent WeChat Group, China.
