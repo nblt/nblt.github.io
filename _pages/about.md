@@ -16,8 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# I AM LOOKING FOR Academic/Industrial JOBS
 
-I am a fourth-year Ph.D. candidate  in the Department of Automation at SEIEE, SJTU, advised by [Prof. Xiaolin Huang](http://www.pami.sjtu.edu.cn/xiaolin). I also spend several wonderful months in the Department of Computer Science and Engineering, HKUST, as a visiting student, under the guidance of [Prof. James Kwok](https://www.cse.ust.hk/~jamesk/).
+I am a fourth-year Ph.D. candidate in the Department of Automation at SEIEE, SJTU, advised by [Prof. Xiaolin Huang](http://www.pami.sjtu.edu.cn/xiaolin). I also spend several wonderful months in the Department of Computer Science and Engineering, HKUST, as a visiting student, under the guidance of [Prof. James Kwok](https://www.cse.ust.hk/~jamesk/).
 My research primarily revolves around machine learning and optimization. Specifically, I am deeply interested in efficiency, robustness, and generalization aspects of learning algorithms and large models.
 
 I have a keen interest in data structures and algorithms and have participated in several  competitive programming contests before. I am also a *Nikon* user.
