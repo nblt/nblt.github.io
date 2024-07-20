@@ -27,7 +27,7 @@ I am good at data structures and algorithms and have participated in several com
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 Our paper "[Learning scalable model soup on a single GPU: An efficient subspace training strategy](https://arxiv.org/abs/2407.03641)" is accepted to ECCV 2024.
+- *2024.07*: &nbsp;🎉🎉 Our paper "[Learning Scalable Model Soup on a Single GPU: An Efficient Subspace Training Strategy](https://arxiv.org/abs/2407.03641)" is accepted to ECCV 2024.
 - *2024.04*: &nbsp;🎉🎉 Our paper "[Online Continual Learning via Logit Adjusted Softmax](https://openreview.net/pdf?id=MyQKcQAte6)" is accepted to TMLR 2024.
 - *2024.03*: &nbsp;🎉🎉 Our paper "[Revisiting Random Weight Perturbation for Efficiently Improving Generalization](https://openreview.net/pdf?id=WbbgOHpoPX)" is accepted to TMLR 2024. A short version is on NeurIPS Workshops on Optimization for Machine Learning (2023).
 - *2024.02*: &nbsp;🎉🎉 Our paper "[Friendly Sharpness-Aware Minimization](https://arxiv.org/abs/2403.12350)" is accepted to CVPR 2024. 
@@ -37,7 +37,7 @@ I am good at data structures and algorithms and have participated in several com
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/MEHL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Learning scalable model soup on a single GPU: An efficient subspace training strategy](https://arxiv.org/abs/2407.03641) \\
+[Learning Scalable Model Soup on a Single GPU: An Efficient Subspace Training Strategy](https://arxiv.org/abs/2407.03641) \\
 **Tao Li**#, Weisen Jiang#, Fanghui Liu, Xiaolin Huang, James T. Kwok
 
 [**Code**](https://github.com/nblt/MEHL-Soup) 
