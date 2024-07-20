@@ -38,7 +38,7 @@ I am good at data structures and algorithms and have participated in several com
 <div class='paper-box-text' markdown="1">
 
 [Learning scalable model soup on a single GPU: An efficient subspace training strategy](https://arxiv.org/abs/2407.03641) \\
-**Tao Li***, Weisen Jiang*, Fanghui Liu, Xiaolin Huang, James T. Kwok
+**Tao Li**#, Weisen Jiang#, Fanghui Liu, Xiaolin Huang, James T. Kwok
 
 [**Code**](https://github.com/nblt/MEHL-Soup) 
  - This work proposes a scalable strategy to learning a model soup, tackling the long-existing memory problem and making it easy for practical usage. We show that learning a model soup can bring >2.5x time saving for fine-tuning compared with greedy soup.
