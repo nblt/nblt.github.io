@@ -27,7 +27,9 @@ I have a keen interest in data structures and algorithms and have participated i
 
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉🎉 Our paper "[Revisiting Random Weight Perturbation for Efficiently Improving Generalization](https://openreview.net/pdf?id=WbbgOHpoPX)" is accepted to TMLR. A short version is on NeurIPS Workshops on Optimization for Machine Learning (2023).
+- *2024.07*: &nbsp;🎉🎉 Our paper "[ Learning scalable model soup on a single GPU: An efficient subspace training strategy](https://arxiv.org/abs/2407.03641)" is accepted to ECCV 2024.
+- *2024.04*: &nbsp;🎉🎉 Our paper "[ Online Continual Learning via Logit Adjusted Softmax](https://openreview.net/pdf?id=MyQKcQAte6)" is accepted to TMLR 2024.
+- *2024.03*: &nbsp;🎉🎉 Our paper "[Revisiting Random Weight Perturbation for Efficiently Improving Generalization](https://openreview.net/pdf?id=WbbgOHpoPX)" is accepted to TMLR 2024. A short version is on NeurIPS Workshops on Optimization for Machine Learning (2023).
 - *2024.02*: &nbsp;🎉🎉 Our paper "[Friendly Sharpness-Aware Minimization](https://arxiv.org/abs/2403.12350)" is accepted to CVPR 2024. 
 
 # 📝 Publications 
