@@ -21,18 +21,29 @@ redirect_from:
 I am currently a fourth-year Ph.D. candidate in the Department of Automation at Shanghai Jiao Tong University, supervised by [Prof. Xiaolin Huang](http://www.pami.sjtu.edu.cn/xiaolin). I also spent several wonderful months as a visiting student in the Department of Computer Science and Engineering at The Hong Kong University of Science and Technology, under the guidance of [Prof. James Kwok](https://www.cse.ust.hk/~jamesk/).
 My research interests include machine learning and optimization, with a particular focus on the efficiency, robustness, and generalization of optimization algorithms in the era of large language models.
 
-I have a keen interest in data structures and algorithms and have participated in several competitive programming contests before. I am also a *Nikon* user.
+I am good at data structures and algorithms and have participated in several competitive programming contests before. I am also a *Nikon* user.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 Our paper "[ Learning scalable model soup on a single GPU: An efficient subspace training strategy](https://arxiv.org/abs/2407.03641)" is accepted to ECCV 2024.
-- *2024.04*: &nbsp;🎉🎉 Our paper "[ Online Continual Learning via Logit Adjusted Softmax](https://openreview.net/pdf?id=MyQKcQAte6)" is accepted to TMLR 2024.
+- *2024.07*: &nbsp;🎉🎉 Our paper "[Learning scalable model soup on a single GPU: An efficient subspace training strategy](https://arxiv.org/abs/2407.03641)" is accepted to ECCV 2024.
+- *2024.04*: &nbsp;🎉🎉 Our paper "[Online Continual Learning via Logit Adjusted Softmax](https://openreview.net/pdf?id=MyQKcQAte6)" is accepted to TMLR 2024.
 - *2024.03*: &nbsp;🎉🎉 Our paper "[Revisiting Random Weight Perturbation for Efficiently Improving Generalization](https://openreview.net/pdf?id=WbbgOHpoPX)" is accepted to TMLR 2024. A short version is on NeurIPS Workshops on Optimization for Machine Learning (2023).
 - *2024.02*: &nbsp;🎉🎉 Our paper "[Friendly Sharpness-Aware Minimization](https://arxiv.org/abs/2403.12350)" is accepted to CVPR 2024. 
 
-# 📝 Publications 
+# 📝 Selected Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/MEHL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning scalable model soup on a single GPU: An efficient subspace training strategy](https://arxiv.org/abs/2407.03641) \\
+**Tao Li***, Weisen Jiang*, Fanghui Liu, Xiaolin Huang, James T. Kwok
+
+[**Code**](https://github.com/nblt/MEHL-Soup) 
+ - This work proposes a scalable strategy to learning a model soup, tackling the long-existing memory problem and making it easy for practical usage. We show that learning a model soup can bring >2.5x time saving for fine-tuning compared with greedy soup.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR 2024</div><img src='images/RWP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
