@@ -27,6 +27,9 @@ I am good at data structures and algorithms and have participated in several com
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 Our paper "[Unified Gradient-Based Machine Unlearning with
+Remain Geometry Enhancement](https://neurips.cc/virtual/2024/poster/94324)" is accepted to NeurIPS 2024 as spotlight.
+- *2024.09*: &nbsp;🎉🎉 Our paper "[Low-Dimensional Gradient Helps Out-of-Distribution Detection](https://ieeexplore.ieee.org/abstract/document/10679599/)" is accepted to TPAMI 2024.
 - *2024.07*: &nbsp;🎉🎉 Our paper "[Learning Scalable Model Soup on a Single GPU: An Efficient Subspace Training Strategy](https://arxiv.org/abs/2407.03641)" is accepted to ECCV 2024.
 - *2024.04*: &nbsp;🎉🎉 Our paper "[Online Continual Learning via Logit Adjusted Softmax](https://openreview.net/pdf?id=MyQKcQAte6)" is accepted to TMLR 2024.
 - *2024.03*: &nbsp;🎉🎉 Our paper "[Revisiting Random Weight Perturbation for Efficiently Improving Generalization](https://openreview.net/pdf?id=WbbgOHpoPX)" is accepted to TMLR 2024. A short version is on NeurIPS Workshops on Optimization for Machine Learning (2023).
