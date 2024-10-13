@@ -128,5 +128,5 @@ Remain Geometry Enhancement](https://neurips.cc/virtual/2024/poster/94324)" is a
 
 # 💻 Internships
 <!-- - *2024.08 - 2024.010*, , Microsoft. -->
-<!-- - *2024.05 - 2024.08*, DKI Group, Microsoft. -->
+- *2024.05 - 2024.08*, DKI Group, Microsoft.
 - *2021.09 - 2021.12*, Tencent WeChat Group.
