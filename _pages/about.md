@@ -127,4 +127,6 @@ Remain Geometry Enhancement](https://neurips.cc/virtual/2024/poster/94324)" is a
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2021.09 - 2021.12*, Tencent WeChat Group, China.
+<!-- - *2024.08 - 2024.010*, , Microsoft. -->
+<!-- - *2024.05 - 2024.08*, DKI Group, Microsoft. -->
+- *2021.09 - 2021.12*, Tencent WeChat Group.
