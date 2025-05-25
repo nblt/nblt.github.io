@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# I AM LOOKING FOR Academic/Industrial JOBS. FEEL FREE TO CONTACT ME!
+<!-- # I AM LOOKING FOR Academic/Industrial JOBS. FEEL FREE TO CONTACT ME! -->
 
 I am currently a fourth-year Ph.D. candidate in the Department of Automation at Shanghai Jiao Tong University, supervised by [Prof. Xiaolin Huang](http://www.pami.sjtu.edu.cn/xiaolin). I also spent several wonderful months as a visiting student in the Department of Computer Science and Engineering at The Hong Kong University of Science and Technology, under the guidance of [Prof. James Kwok](https://www.cse.ust.hk/~jamesk/).
 My research interests include machine learning and optimization, with a particular focus on the efficiency, robustness, and generalization of optimization algorithms in the era of large language models.
@@ -27,6 +27,8 @@ I am good at data structures and algorithms and have participated in several com
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 Our paper "[Distraction is All You Need for Multimodal Large Language Model Jailbreaking](https://arxiv.org/submit/6474396/view)" is accepted to ICML 2025. Try [it](https://github.com/nblt/Flat-LoRA) to improve fine-tuning performance with little additional memory and computation efforts!
+- *2025.03*: &nbsp;🎉🎉 Our paper "[Distraction is All You Need for Multimodal Large Language Model Jailbreaking](https://arxiv.org/abs/2502.10794)" is accepted to CVPR 2025 as highlight.
 - *2024.09*: &nbsp;🎉🎉 Our paper "[Unified Gradient-Based Machine Unlearning with
 Remain Geometry Enhancement](https://neurips.cc/virtual/2024/poster/94324)" is accepted to NeurIPS 2024 as spotlight.
 - *2024.09*: &nbsp;🎉🎉 Our paper "[PromptIntern: Saving Inference Costs by Internalizing Recurrent Prompt during Large Language Model Fine-tuning](https://arxiv.org/pdf/2407.02211)" is accepted to EMNLP 2024 Findings. Congrats to collaborators!
@@ -38,8 +40,20 @@ Remain Geometry Enhancement](https://neurips.cc/virtual/2024/poster/94324)" is a
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/MEHL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/flat-lora.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+[Flat-LoRA: Low-Rank Adaptation over a Flat Loss Landscape](https://arxiv.org/submit/6474396/view) \\
+**Tao Li**#, Zhengbao He#, Yujun Li, Yasheng Wang, Lifeng Shang, Xiaolin Huang
+
+[**Code**](https://github.com/nblt/Flat-LoRA) 
+ - This work proposes Flat-LoRA, which aims to efficiently optimize the sharpness of the loss landscape in the full parameter space for low-rank adaptation by using designed random weight perturbations. Improve in/out-of-domain generalization with little computational and memory overheads!
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR 2024</div><img src='images/RWP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 
 [Learning Scalable Model Soup on a Single GPU: An Efficient Subspace Training Strategy](https://arxiv.org/abs/2407.03641) \\
 **Tao Li**#, Weisen Jiang#, Fanghui Liu, Xiaolin Huang, James T. Kwok
