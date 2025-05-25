@@ -27,7 +27,7 @@ I am good at data structures and algorithms and have participated in several com
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 Our paper "[Distraction is All You Need for Multimodal Large Language Model Jailbreaking](https://arxiv.org/submit/6474396/view)" is accepted to ICML 2025. Try [it](https://github.com/nblt/Flat-LoRA) to improve fine-tuning performance with little additional memory and computation efforts!
+- *2025.05*: &nbsp;🎉🎉 Our paper "[Flat-LoRA: Low-Rank Adaptation over a Flat Loss Landscape](https://arxiv.org/submit/6474396/view)" is accepted to ICML 2025. Try [it](https://github.com/nblt/Flat-LoRA) to improve fine-tuning performance with little additional memory and computation efforts!
 - *2025.03*: &nbsp;🎉🎉 Our paper "[Distraction is All You Need for Multimodal Large Language Model Jailbreaking](https://arxiv.org/abs/2502.10794)" is accepted to CVPR 2025 as highlight.
 - *2024.09*: &nbsp;🎉🎉 Our paper "[Unified Gradient-Based Machine Unlearning with
 Remain Geometry Enhancement](https://neurips.cc/virtual/2024/poster/94324)" is accepted to NeurIPS 2024 as spotlight.
@@ -40,7 +40,7 @@ Remain Geometry Enhancement](https://neurips.cc/virtual/2024/poster/94324)" is a
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/flat-lora.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/flat-lora.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Flat-LoRA: Low-Rank Adaptation over a Flat Loss Landscape](https://arxiv.org/submit/6474396/view) \\
