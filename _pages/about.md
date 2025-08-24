@@ -40,7 +40,7 @@ Remain Geometry Enhancement](https://neurips.cc/virtual/2024/poster/94324)" is a
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/flat-lora.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/flat-lora.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Flat-LoRA: Low-Rank Adaptation over a Flat Loss Landscape](https://arxiv.org/submit/6474396/view) \\
