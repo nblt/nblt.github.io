@@ -130,7 +130,7 @@ Remain Geometry Enhancement](https://neurips.cc/virtual/2024/poster/94324)" is a
 
 # 🎖 Honors and Awards
 - *2020.07* Shanghai Outstanding Graduates
-- *2013.12* First Prize in CSP-S (full grades) 
+- *2013.12* First Prize in NOIP (full grades for senior) 
 
 # 📖 Educations
 - *2020.09 -  now*, Ph.D., Control Science and Engineering, Shanghai Jiao Tong University, Shanghai, China 
