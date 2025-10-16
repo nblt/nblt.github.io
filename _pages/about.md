@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 <!-- # I AM LOOKING FOR Academic/Industrial JOBS. FEEL FREE TO CONTACT ME! -->
 
-I am currently a researcher at Bytedance Seed, where I focus on developing large-scale multimodal models. I obtained Ph.D. degree at Shanghai Jiao Tong University, under the supervision of [Prof. Xiaolin Huang](http://www.pami.sjtu.edu.cn/xiaolin). I also spent several wonderful months as a visiting student in the Department of Computer Science and Engineering at The Hong Kong University of Science and Technology, under the guidance of [Prof. James Kwok](https://www.cse.ust.hk/~jamesk/).
+I am currently a researcher at Bytedance Seed, where I focus on developing large multimodal models. I obtained Ph.D. degree at Shanghai Jiao Tong University, under the supervision of [Prof. Xiaolin Huang](http://www.pami.sjtu.edu.cn/xiaolin). I also spent several wonderful months as a visiting student in the Department of Computer Science and Engineering at The Hong Kong University of Science and Technology, under the guidance of [Prof. James Kwok](https://www.cse.ust.hk/~jamesk/).
 My research interests include machine learning and optimization, with a particular focus on the efficiency, robustness, and generalization of optimization algorithms in the era of large language models.
 
 I am good at data structures and algorithms and have participated in several competitive programming contests before. I am always open for discussion and potential collaborations and please feel free to contact me via email: li.tao at sjtu dot edu dot cn / wechat: nblt1998
