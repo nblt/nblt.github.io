@@ -133,7 +133,7 @@ Remain Geometry Enhancement](https://neurips.cc/virtual/2024/poster/94324)" is a
 - *2013.12* First Prize in NOIP (full grades for senior) 
 
 # 📖 Educations
-- *2020.09 -  now*, Ph.D., Control Science and Engineering, Shanghai Jiao Tong University, Shanghai, China 
+- *2020.09 -  2025.06*, Ph.D., Control Science and Engineering, Shanghai Jiao Tong University, Shanghai, China 
 - *2016.09 - 2020.06*, B.Eng., Automation, Shanghai Jiao Tong University, Shanghai, China
 
 # 💬 Invited Talks
