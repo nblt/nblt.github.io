@@ -18,10 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 <!-- # I AM LOOKING FOR Academic/Industrial JOBS. FEEL FREE TO CONTACT ME! -->
 
-I am currently a researcher at Bytedance Seed, where I focus on developing large multimodal models. I obtained Ph.D. degree at Shanghai Jiao Tong University, under the supervision of [Prof. Xiaolin Huang](http://www.pami.sjtu.edu.cn/xiaolin). I also spent several wonderful months as a visiting student in the Department of Computer Science and Engineering at The Hong Kong University of Science and Technology, under the guidance of [Prof. James Kwok](https://www.cse.ust.hk/~jamesk/).
-My research interests include machine learning and optimization, with a particular focus on the efficiency, robustness, and generalization of optimization algorithms in the era of large language models.
+I am currently a researcher at ByteDance Seed, focusing on large multimodal model development for speech interaction. I earned Ph.D. degree at Shanghai Jiao Tong University, under the supervision of [Prof. Xiaolin Huang](http://www.pami.sjtu.edu.cn/xiaolin). I also spent several wonderful months as a visiting student in the Department of Computer Science and Engineering at The Hong Kong University of Science and Technology, under the guidance of [Prof. James Kwok](https://www.cse.ust.hk/~jamesk/).
+My research interests include machine learning, reinforcement learning, and optimization, with a particular focus on the efficiency, robustness, and generalization of optimization algorithms in the era of large language models.
 
-I am good at data structures and algorithms and have participated in several competitive programming contests before. I am always open for discussion and potential collaborations and please feel free to contact me via email: li.tao at sjtu dot edu dot cn / wechat: nblt1998
+I have a solid foundation in data structures and algorithms, and I previously participated in multiple competitive programming contests. I am always open to academic discussions and potential collaborations. Feel free to reach me via email: li.tao@sjtu.edu.cn, or WeChat: nblt1998.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -165,5 +165,6 @@ Zhehao Huang, Yuhang Liu, Baijiong Lin, Yixin Lou, Zhengbao He, Hanling Tian, **
 
 # 💻 Internships
 <!-- - *2024.08 - 2024.010*, , Microsoft. -->
+- *2024.08 - 2025.02*, Noah’s Ark Lab, Huawei.
 - *2024.05 - 2024.08*, DKI Group, Microsoft.
 - *2021.09 - 2021.12*, Tencent WeChat Group.
