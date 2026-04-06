@@ -27,7 +27,7 @@ I am good at data structures and algorithms and have participated in several com
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 Three papers have been accepted to ICLR 2026, including one Oral presentation: [Bi-LoRA](https://openreview.net/forum?id=zoYPlgX1bH) for efficiently improving the generalization of LoRA fine-tuning, [RAIN-Merging](https://openreview.net/forum?id=PO2iULmu5e) for enhancing instruction following in reasoning models, and [DuPO](https://openreview.net/forum?id=SD8Z231C45&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions) for enabling reliable self-verification via dual optimization. Congratulations to all collaborators!
+- *2026.01*: &nbsp;🎉🎉 Three papers have been accepted to ICLR 2026, including one Oral presentation: [Bi-LoRA](https://openreview.net/forum?id=zoYPlgX1bH) for efficiently improving the generalization of LoRA fine-tuning, [RAIN-Merging](https://openreview.net/forum?id=PO2iULmu5e) for enhancing instruction following in reasoning models, and [DuPO](https://openreview.net/forum?id=SD8Z231C45) for enabling reliable self-verification via dual optimization. Congratulations to all collaborators!
 - *2025.05*: &nbsp;🎉🎉 Our paper "[Flat-LoRA: Low-Rank Adaptation over a Flat Loss Landscape](https://arxiv.org/submit/6474396/view)" is accepted to ICML 2025. Try [it](https://github.com/nblt/Flat-LoRA) to improve fine-tuning performance with little additional memory and computation efforts!
 - *2025.03*: &nbsp;🎉🎉 Our paper "[Distraction is All You Need for Multimodal Large Language Model Jailbreaking](https://arxiv.org/abs/2502.10794)" is accepted to CVPR 2025 as highlight.
 - *2024.09*: &nbsp;🎉🎉 Our paper "[Unified Gradient-Based Machine Unlearning with
@@ -61,10 +61,6 @@ Zhehao Huang, Yuhang Liu, Baijiong Lin, Yixin Lou, Zhengbao He, Hanling Tian, **
  - This work proposes Flat-LoRA, which aims to efficiently optimize the sharpness of the loss landscape in the full parameter space for low-rank adaptation by using designed random weight perturbations. Improve in/out-of-domain generalization with little computational and memory overheads!
 </div>
 </div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/MEHL.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/flat-lora.png' alt="sym" width="100%"></div></div>
